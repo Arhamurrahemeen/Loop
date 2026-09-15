@@ -61,7 +61,15 @@ To run the Android shell: open `android/` in Android Studio, update `CheckActivi
 
 ## Screenshots
 
-See [`docs/screenshots/`](docs/screenshots).
+| Home | Safe (green) | Scam (red) |
+|---|---|---|
+| <img src="docs/screenshots/home.png" width="220"> | <img src="docs/screenshots/green.png" width="220"> | <img src="docs/screenshots/red.png" width="220"> |
+| Paste a message/link, or try a live demo | No suspicious content — nothing to do | Fake-OTP-helpline scam caught, with one plain reason |
+
+| Proactive link interception | VERIFY (voice/video emergency) |
+|---|---|
+| <img src="docs/screenshots/intercept.png" width="220"> | <img src="docs/screenshots/verify.png" width="220"> |
+| A tapped scam link is caught *before* it opens | Forces the one defence that beats even a perfect clone: hang up, call back, family code word |
 
 ## Team & credits
 

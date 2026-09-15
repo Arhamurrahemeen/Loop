@@ -1,0 +1,11 @@
+{
+  "name": "loop",
+  "version": "1.0.0",
+  "description": "Loop — a proactive Android digital shield against scams and deepfakes. Built for Social Nova Hackathon 2026.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_check.js"
+  },
+  "license": "MIT"
+}

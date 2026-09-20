@@ -58,7 +58,7 @@ To run the Android shell: open `android/` in Android Studio, point `CheckActivit
 
 <p align="center"><img src="docs/assets/loop-divider-06-credits.svg" width="100%" alt="Section 06: team and license"/></p>
 
-Built solo by Arham for Social Nova Hackathon 2026 at Habib University, Karachi.
+Built by Arham, Baneen Raza, Ayesha Mariyum & Samra Saeed for Social Nova Hackathon 2026 at Habib University, Karachi.
 
 [MIT](LICENSE)
 

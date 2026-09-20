@@ -17,8 +17,8 @@
   <text x="72" y="213" font-family="'Courier New', Courier, monospace" font-size="18" fill="#8A8275">a proactive digital shield against scams and deepfakes</text>
   <text x="72" y="242" font-family="'Courier New', Courier, monospace" font-style="italic" font-size="14" fill="#8A8275">built for people who don't yet know to be suspicious.</text>
 
-  <rect x="70" y="278" width="452" height="42" fill="none" stroke="#1C1B19" stroke-opacity="0.4" stroke-width="1"/>
-  <text x="88" y="304" font-family="'Courier New', Courier, monospace" font-size="13" fill="#1C1B19">3rd place — social nova hackathon 2026 · habib university karachi</text>
+  <rect x="70" y="278" width="514" height="42" fill="none" stroke="#1C1B19" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="88" y="304" font-family="'Courier New', Courier, monospace" font-size="13" fill="#1C1B19">honorable mention — social nova hackathon 2026 · habib university karachi</text>
 
   <g transform="translate(900,190)">
     <path d="M0,-130 L90,-95 L90,-10 C90,60 45,105 0,140 C-45,105 -90,60 -90,-10 L-90,-95 Z" fill="none" stroke="#539091" stroke-width="4"/>
